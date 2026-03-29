@@ -6,6 +6,6 @@ public class login{
       System.out.println("Login Successfull");
     }
     else
-      System.out.println("Login failed")
+      System.out.println("Login failed");
         }
 }
